@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Numbers ✨
+
+Find out how many numbers divisible by 3 exist between two given numbers
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
